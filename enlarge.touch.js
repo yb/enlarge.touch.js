@@ -1,3 +1,7 @@
+/*
+    enlarge.touch.js
+    by AbelYao, USKY.ORG
+*/
 (function(window, undefined)
 {
     var events = ["touchstart", "touchmove", "touchend"];
